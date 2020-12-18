@@ -637,11 +637,20 @@ VisualEffect:
         m_Name: "\u6578\u91CF"
         m_Overridden: 1
     m_Vector2f:
-      m_Array: []
+      m_Array:
+      - m_Value: {x: 1, y: 1.5}
+        m_Name: "\u96A8\u6A5F\u751F\u547D\u9031\u671F"
+        m_Overridden: 1
     m_Vector3f:
       m_Array: []
     m_Vector4f:
-      m_Array: []
+      m_Array:
+      - m_Value: {x: 1, y: 0.52990127, z: 0, w: 1}
+        m_Name: New Color
+        m_Overridden: 1
+      - m_Value: {x: 0.8773585, y: 0, z: 0.01683762, w: 0.8235294}
+        m_Name: New Color 1
+        m_Overridden: 1
     m_Uint:
       m_Array: []
     m_Int:
@@ -653,7 +662,10 @@ VisualEffect:
     m_Gradient:
       m_Array: []
     m_NamedObject:
-      m_Array: []
+      m_Array:
+      - m_Value: {fileID: 2800000, guid: aeedaf38dd1a66145bcd49e5f94fbf85, type: 3}
+        m_Name: New Texture2D
+        m_Overridden: 1
     m_Bool:
       m_Array: []
 --- !u!4 &1919890056
