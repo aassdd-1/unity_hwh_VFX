@@ -24,40 +24,13 @@ MonoBehaviour:
     - model: {fileID: 8926484042661614555}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661614556}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661614558}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614569}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614580}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614606}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614706}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661614583}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661614640}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661614585}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614589}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614591}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614593}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661614595}
@@ -98,31 +71,10 @@ MonoBehaviour:
     - model: {fileID: 8926484042661614645}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661614664}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614670}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614686}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614674}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661614656}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661614689}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661614658}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614675}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614679}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661614716}
@@ -134,9 +86,9 @@ MonoBehaviour:
   uiBounds:
     serializedVersion: 2
     x: 585
-    y: -193
+    y: -192
     width: 1693
-    height: 1769
+    height: 1748
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
